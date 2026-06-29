@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="bundler" width="880"></p>
+
 # EIP4337 reference modules
 
 ## Bundler
